@@ -1,1 +1,1 @@
-# Bus-Simulator-3D-Python-3D-game
+To run the game, you will have to install the necesarry envirnment first, such as all the python libraries including numpy, pygame and more importantly Panda3D Game engine which was used to build this game. Simply install them on your system and use the source code to run the game. Also, remember to change the file paths according to your system in the source code. If you have any query, feel free to ask me.  
